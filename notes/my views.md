@@ -1,3 +1,5 @@
+# My current views
+
 Source: [Facebook post 2020-06-07](https://www.facebook.com/elias.jackson2/posts/3644892598861140)
 
 I want to clear the air on some of my positions regarding economic policy and my placement on the political spectrum. I had been somewhat afraid to make these statements out of fear of alienating my socialist friends (many of whom I have great respect for), fear of being wrong and having to backtrack once I learn more, and fear of making a claim that I can’t argue well at the moment. Many of you disagree with me on these, and I want to hear your perspective. Please challenge me on any of these, because I am still learning. I promise you that my heart is in the right place and I am committed to finding the most correct and fact-based positions.

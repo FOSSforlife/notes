@@ -1,5 +1,3 @@
-# Laptop for Cloud
-
 **M1 Air**
 
 - Gold/pink
