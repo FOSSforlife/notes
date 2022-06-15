@@ -1,4 +1,4 @@
-# Awesome YouTube Channels
+# YouTube Channels I Like
 
 ## Background Music
 

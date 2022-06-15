@@ -24,6 +24,6 @@
   - Apple Magic Keyboard
 - Lenovo Yoga C930 14"
   - Specs: i7-8550U, 16GB RAM, 1TB NVMe SSD, folds into a tablet
-  - OS: Arch Linux with i3
+  - OS: [EndeavourOS Sway](https://github.com/EndeavourOS-Community-Editions/sway)
 - Sony BRAVIA X90J 65"
   - OS: Google TV
