@@ -1,11 +1,15 @@
-# Knowledge (old)
-(Last updated Feb 7, 2021)
+# Old Bookmarks List
+:::info Source
+
+This is copied and pasted from a bookmarks list that I used to maintain. I've since abandoned it because I want to find a better way to organize my links, but this is still a very useful reference for the time being. The last update I made to it was on Feb 7, 2021.
+
+:::
 
 ## General Resources
 
-- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/):
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
   - Also, [Internet Encyclopedia of Philosophy](https://iep.utm.edu/)
-- [RationalWiki](https://rationalwiki.org/):
+- [RationalWiki](https://rationalwiki.org/)
 - [Vaush's Ultimate Research Document](https://docs.google.com/document/d/1ido70LgXsEhxcnyXE7RVS0wYJZc6aeVTpujCUPQgTrE/edit): Contains sections on: Institutional racism, LGBTQ issues, immigration, and Holocaust denial. Continuously being expanded whenever he has a large debate.
 - [Scholarly articles used in Destiny debates (megathread)](https://www.reddit.com/r/Destiny/comments/aahwbl/scholarly_articlesstudies_megathread/): Gender, capitalism, domestic violence, immigration, cultural assimilation, psychedelic drugs, Bill C-16, other
 - [Scholarly articles used in Destiny debates (megathread) Part 2](https://www.reddit.com/r/Destiny/comments/am0gjm/scholarly_articlesstudies_megathread_2/): Gender, economics, immigration, race, crime stats, climate change, and more

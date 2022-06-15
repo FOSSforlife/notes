@@ -1,12 +1,13 @@
+# Laptop for Cloud
+
 **M1 Air**
 
-- Gold/pink
-- Refurbished
+- Gold color
+- Efficient M1 chip
 - AirDrop
 - 8-core GPU
-- Apple Card
 - GarageBand
-- iMessage, Notes
+- iMessage, Notes, Wallet
 
 **Lenovo Yoga C940**
 
@@ -14,6 +15,7 @@
 - Touchscreen
 - Built in pen
 - USB-A port
+- Webcam privacy shield
 
 **Dell XPS 13**
 

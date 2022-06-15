@@ -1,6 +1,10 @@
 # Fascists
 
-Source: [Facebook post 2019-05-21](https://www.facebook.com/elias.jackson2/posts/2761423727208036)
+:::info Source
+
+This is copied and pasted from [this Facebook post](https://www.facebook.com/elias.jackson2/posts/2761423727208036) written May 21, 2019. I wrote it as I was parting ways with two of my closest friends at the time.
+
+:::
 
 (Please read the whole thing before commenting. This is important, quite personal to me, and can't be summed up quickly.)
 

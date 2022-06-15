@@ -96,6 +96,7 @@ These are people who are often associated with the people mentioned above, and m
 - Writes detailed articles about economics, two of which are among my all-time favorites for the way that they express multiple viewpoints in a relatively unbiased way:
 	- [Bill Gates tweeted out a chart and sparked a huge debate about global poverty](https://www.vox.com/future-perfect/2019/2/12/18215534/bill-gates-global-poverty-chart)
 	- [How I (and US policymakers) got inflation wrong](https://www.vox.com/22996474/inflation-federal-reserve-nairu-ngdp-powell)
+	- [The case against billionaire philanthropy](https://www.vox.com/future-perfect/2018/12/17/18141181/foundation-charity-deduction-democracy-rob-reich)
 
 ## Sam Harris
 [Website](https://www.samharris.org)

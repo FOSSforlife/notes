@@ -1,4 +1,12 @@
 # How I Think About Morality (A Rational Basis For Caring About People)
+:::caution Unfinished
+
+This is a work-in-progress. 
+
+I've made it publicly available in its current state because you may find it interesting. Eventually I'll finish and formally publish it, but I'm not sure when that will be.
+
+:::
+
 <!--
 - I think there is a certain logic lacking in people's moral discussions (freedom, justice, fairness, etc)
 - Am I about to make a Sam Harris argument about morality being "objective" and "scientific"? Maybe, but I'm hoping this article will be more nuanced
@@ -31,14 +39,20 @@ In the following sections, I will use two premises to reach the conculsion that 
 
 Before arguing that all suffering is wrong, I find it easiest to start with the claim that *my own* suffering is wrong. This is different from saying that I don't like to suffer-- that would be an "is" statement (describing facts of the matter)--here I am making an "ought" statement, that my well-being *should* be protected. 
 
-Right off the bat, I'll say that this is an [axiom](https://en.wikipedia.org/wiki/Axiom)--a premise that I have an intuition about, but have not proven to be true. I can't make a rational argument that my own well-being is important, however I can 
+Right off the bat, I'll say that this is an [axiom](https://en.wikipedia.org/wiki/Axiom)--a premise that I have an intuition about, but have not proven to be true. I can't make a rational argument that my own well-being is important, however this is one of my most deeply-held beliefs, and not believing this would lead to an absurd existance where any action done towards me, no matter how harmful, could be morally neutral or justified. I cannot imagine an existence where this axiom is not true.
 
-- Talk about the [is-ought gap](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem)
+In philosophy, arguments sometimes have to start from unjustified premises, and unfortunately this is one of those cases. However, I don't think this is a controversial claim (maybe some people don't think that *my* well-being matters, but they can just substitute themselves into the claim instead and hopefully they'd agree). I find the next premise more interesting, and I hope the logic from this point forward makes a clear case for my thesis.
+
+(WIP)
+
+<!--
 - We could try to justify this with Chalmers' panpsychism/dualism: If our minds are not merely physical, we can justify extending greater care towards them than other physical (non-sentient) objects. But this isn't a full argument, and it doesn't bridge the is-ought gap, because it doesn't tell us *why* something being non-physical means we should care about it.
 - We could also try to say that my well-being matters because well-being = good, but that would fail to bridge the is-ought gap.
 - Ultimately, what I know is that I view my own well-being as something of moral worth. If I am harmed by someone, I believe more than anything in the world that I have been wronged. 
 - This is a foundational axiom that I cannot justify, but one could argue that all knowledge is built upon these types of axioms. There has to be some things that we just take for granted, and being that this is my most deeply-held belief, for me this has to be one of those things.
 	- It's the simplest axiom I could have chosen to start with
+
+-->
 
 ## Premise 2: I don't matter more than anyone else.
 We've established that my well-being matters, yet as I've said, I don't have a reason for why that is. However, by eliminating some potential reasons, we can arrive at another realization.
@@ -59,7 +73,7 @@ We've eliminated all potential reasons that separate me from others to justify m
 ## Conclusion: Everyone's well-being matters.
 Because there is no rational way to justify my own well-being above others, yet I know that my own well-being is ethically significant, I must conclude that everyone's well-being matters. If I ever do find a rational justification for Premise 1, I would expect that argument to also logically follow for everyone who isn't me. 
 
-
+**TODO: Write more on each of these bullet points**
 
 Questions to determine which moral theories we hold true (Most of these use [consequentialism](https://plato.stanford.edu/entries/consequentialism/) as a basis):
 - Do we define well-being as the conscious experience of pleasure and pain, or do we define it as a satisfaction of individual preferences?
@@ -70,7 +84,7 @@ Questions to determine which moral theories we hold true (Most of these use [con
 		- Experience machine
 		- World-ending button
 		- It seems like this is the view that Sam Harris holds, although I don't believe he's made any effective arguments in its favor.
-		- Examples of my own hedonism: ignorance is bliss (wouldn't mind being [talked about behind my back](https://www.reddit.com/r/askphilosophy/comments/393bqd/is_there_any_reason_its_considered_worse_to_talk/), am not scared of death, would want to live in the experience machine, am sympatheic to anti-natalist arguments)
+		- Examples of my own hedonism: ignorance is bliss (wouldn't mind being [talked about behind my back](https://www.reddit.com/r/askphilosophy/comments/393bqd/is_there_any_reason_its_considered_worse_to_talk/), am not scared of death, would want to live in the [experience machine](https://en.wikipedia.org/wiki/Experience_machine), am sympatheic to [anti-natalist](https://en.wikipedia.org/wiki/Antinatalism) arguments)
 	- However, I can't prove that everyone else also hedonistic, which leads me to preference utilitarianism
 - Classical vs negative utilitarianism
 	- Prioritarianism
@@ -82,7 +96,7 @@ Questions to determine which moral theories we hold true (Most of these use [con
 	- Tbh I'm not well-versed on his overall theory, but I like his "veil of ignorance" concept and I think this applies to many of the other theories mentioned
 - After a while, I stopped caring about the exact math or what equations I should be using. What's important, especially given my limited time and energy, is that my actions contribute to the reduction of suffering in some way
 - I have never in my life seen a moral system that doesn't result in some hypothetical dilemmas (classical utilitarianism is full of them, by the way), and even if I did find a moral system that was devoid of any uncomfortable conclusions, it would most likely disagree with the fundamental axioms that I laid out at the beginning of my argument.
-- I'll say the same thing for philosophy as I will for any other academic subject: **If the answer was simple, all the experts would agree.**
+- I'll say the same thing for philosophy as I will for any other academic subject: **If the answer was simple, most of the experts would agree.**
 
 ## How to live as a consequentialist
 - Effective Altruism
