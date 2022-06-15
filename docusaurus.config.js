@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-	title: 'My Site',
-	tagline: 'Dinosaurs are cool',
-	url: 'https://your-docusaurus-test-site.com',
+	title: "Elias's notes",
+	tagline: 'Semi-organized thoughts about various things',
+	url: 'https://fossforlife.github.io/notes/',
 	baseUrl: '/notes/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
@@ -64,7 +64,7 @@ const config = {
 				items: [
 					{
 						type: 'doc',
-						docId: 'intro',
+						docId: 'home',
 						position: 'left',
 						label: 'Notes',
 					},
@@ -84,7 +84,7 @@ const config = {
 						items: [
 							{
 								label: 'Tutorial',
-								to: '/docs/intro',
+								to: '/docs/home',
 							},
 						],
 					},
