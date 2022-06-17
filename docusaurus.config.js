@@ -49,18 +49,18 @@ const config = {
 		],
 	],
 
-	plugins: [
-		[
-			'@docusaurus/plugin-content-docs',
-			{
-				id: 'docs',
-				path: 'docs',
-				routeBasePath: 'docs',
-				sidebarPath: require.resolve('./sidebars.js'),
-				// ... other options
-			},
-		],
-	],
+	// plugins: [
+	// 	[
+	// 		'@docusaurus/plugin-content-docs',
+	// 		{
+	// 			id: 'docs',
+	// 			path: 'docs',
+	// 			routeBasePath: 'docs',
+	// 			sidebarPath: require.resolve('./sidebars.js'),
+	// 			// ... other options
+	// 		},
+	// 	],
+	// ],
 
 	themeConfig:
 		/** @type {import('@docusaurus/preset-classic').ThemeConfig} */

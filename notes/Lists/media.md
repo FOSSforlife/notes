@@ -12,6 +12,7 @@ Too many to list. Mostly comedy, sometimes drama. Here are some of my all-time f
 - It's Always Sunny in Philadelphia
 - Breaking Bad
 - Arrested Development
+- Broad City
 - Seinfeld
 - House
 - 30 Rock
@@ -30,10 +31,20 @@ I don't watch very many movies, but a few have really touched me:
 ## Video Games
 
 - The Legend of Zelda
+  - Link to the Past
+  - Breath of the Wild
+  - A Link Between Worlds
+  - Wind Waker
+  - Ocarina of Time
 - Super Smash Bros. Ultimate
 - DOOM, DOOM Eternal
+- Jackbox Party Pack
 - Clone Hero
 - RISK: Global Domination
+- Burnout Paradise
+- Need for Speed: Carbon
+- F-Zero GX
+- Galaga
 
 ## News
 
@@ -53,6 +64,7 @@ I don't watch very many movies, but a few have really touched me:
 
 - NPR Up First
 - Vox Today Explained
+- The Ezra Klein Show
 - Rationally Speaking
 - Oregon Live
 - OPB

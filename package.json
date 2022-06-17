@@ -12,7 +12,7 @@
 		"serve": "docusaurus serve",
 		"write-translations": "docusaurus write-translations",
 		"write-heading-ids": "docusaurus write-heading-ids",
-		"import": "rsync -urv --delete ~/notes/public/ notes",
+		"import": "git stash && rsync -urv --delete ~/notes/public/ notes",
 		"export": "rsync -urv --delete notes/ ~/notes/public"
 	},
 	"dependencies": {

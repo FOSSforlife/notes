@@ -1,15 +1,17 @@
 # Starred GitHub projects
+
 :::info Source
 
-Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astral](https://astralapp.com) and a [script](https://github.com/fossforlife/bookmarks/blob/main/scripts/githubStars.js) I wrote. Haven't updated this in a while.
+Auto-generated from [my GitHub profile](https://github.com/FOSSforlife?tab=stars) using a service called [Astral](https://astralapp.com) and a [script](https://github.com/fossforlife/bookmarks/blob/main/scripts/githubStars.js) I wrote. Haven't updated this in a while.
 
 :::
 
 ## Coding Tools
+
 - [reactide](https://github.com/reactide/reactide) - Reactide is the first dedicated IDE for React web application development. (9953 stars)
 - [lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE (7520 stars)
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces (6345 stars)
-- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.  (5315 stars)
+- [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins. (5315 stars)
 - [falcon](https://github.com/plotly/falcon) - Free, open-source SQL client for Windows and Mac 🦅 (4432 stars)
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - why-did-you-render monkey patches React to notify you about avoidable re-renders. (4063 stars)
 - [beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Cross platform SQL editor and database management app for Windows, Linux, and Mac. (2686 stars)
@@ -18,6 +20,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [flems](https://github.com/porsager/flems) - A single file web playground and sandbox (220 stars)
 
 ## Components
+
 - [awesome-react-components](https://github.com/brillout/awesome-react-components) - Curated List of React Components & Libraries. (23447 stars)
 - [nprogress](https://github.com/rstacruz/nprogress) - For slim progress bars like on YouTube, Medium, etc (21473 stars)
 - [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.) (18311 stars)
@@ -31,6 +34,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [create-infinite-loading-list-react-graphql](https://github.com/frinyvonnick/create-infinite-loading-list-react-graphql) - null (10 stars)
 
 ## Cool Open Source Projects
+
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers (48015 stars)
 - [discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple. (31327 stars)
 - [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player (29177 stars)
@@ -53,7 +57,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (5818 stars)
 - [community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one. (5430 stars)
 - [entropic](https://github.com/entropic-dev/entropic) - 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝 (5313 stars)
-- [i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (5166 stars)
+- [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere (5166 stars)
 - [streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player (4991 stars)
 - [firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager (4860 stars)
 - [trust](https://github.com/ncase/trust) - An interactive guide to the game theory of cooperation (4197 stars)
@@ -76,7 +80,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [Plume](https://github.com/Plume-org/Plume) - Federated blogging application, thanks to ActivityPub (now on git.joinplu.me, this is just a mirror) (1318 stars)
 - [arguman.org](https://github.com/arguman/arguman.org) - 〽️argument mapping platform, a django project (1273 stars)
 - [fider](https://github.com/getfider/fider) - Open platform to collect and prioritize product feedback (1259 stars)
-- [typora-issues](https://github.com/typora/typora-issues) - Bugs, suggestions or free discussions about the minimal markdown editor — Typora  (1021 stars)
+- [typora-issues](https://github.com/typora/typora-issues) - Bugs, suggestions or free discussions about the minimal markdown editor — Typora (1021 stars)
 - [opencollective](https://github.com/opencollective/opencollective) - Collect and spend money transparently. Please report issues there. Feature requests and ideas welcome! (979 stars)
 - [offline-wikipedia](https://github.com/jakearchibald/offline-wikipedia) - Demo of how something like Wikipedia could be offline-first (786 stars)
 - [mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection. (713 stars)
@@ -88,7 +92,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [crossnote](https://github.com/0xGG/crossnote) - 📝 An interesting markdown note taking application (406 stars)
 - [redditmusicplayer](https://github.com/musicplayer-io/redditmusicplayer) - :musical_note: A free and open-source streaming music web player using data from Reddit (390 stars)
 - [multitwitch](https://github.com/bhamrick/multitwitch) - Multiple twitch streams on one page (344 stars)
-- [winstall](https://github.com/MehediH/winstall) - An intuitive interface for browsing and installing Windows Package Manager apps.  (326 stars)
+- [winstall](https://github.com/MehediH/winstall) - An intuitive interface for browsing and installing Windows Package Manager apps. (326 stars)
 - [opencollective-frontend](https://github.com/opencollective/opencollective-frontend) - Open Collective Frontend. A React app powered by Next.js. (294 stars)
 - [amen](https://github.com/algorithmic-music-exploration/amen) - A toolbox for algorithmic remixing, after Echo Nest Remix (279 stars)
 - [openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions (252 stars)
@@ -106,17 +110,19 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [bitwig.community](https://github.com/polarity/bitwig.community) - 🚀 Bitwig linkpage / browser startpage with all important links. wow (4 stars)
 
 ## Deno
+
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime (66386 stars)
 - [denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port for it. (318 stars)
 - [Discordeno](https://github.com/Skillz4Killz/Discordeno) - Discord Deno API library wrapper (Officially vetted library by Discord team) https://discordeno.netlify.app (80 stars)
 - [deno-paas](https://github.com/BuildingXwithJS/deno-paas) - Deno-based PaaS project (8 stars)
 
 ## Example Projects
+
 - [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites. (46674 stars)
 - [realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 (45468 stars)
 - [TypeScript-Node-Starter](https://github.com/microsoft/TypeScript-Node-Starter) - A reference example for TypeScript and Node with a detailed README describing how to use the two together. (8342 stars)
 - [vanillawebprojects](https://github.com/bradtraversy/vanillawebprojects) - Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries (7299 stars)
-- [Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL  (2632 stars)
+- [Advanced-React](https://github.com/wesbos/Advanced-React) - Starter Files and Solutions for Full Stack Advanced React and GraphQL (2632 stars)
 - [express-rest-es2017-boilerplate](https://github.com/danielfsousa/express-rest-es2017-boilerplate) - ⌛️ Express boilerplate for building RESTful APIs (1256 stars)
 - [nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM / Prisma (1021 stars)
 - [next-boilerplate](https://github.com/pankod/next-boilerplate) - A well-structured production ready Next.js boilerplate with Typescript, Redux, Jest, Enzyme, Express.js, Sass, Css, EnvConfig, Fetch, Reverse Proxy, Bundle Analyzer and Built-in Project CLI. https://pankod.github.io/next-boilerplate/ (661 stars)
@@ -143,6 +149,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [deno-simple-server](https://github.com/BuildingXwithJS/deno-simple-server) - Simple HTTP server built with Deno (4 stars)
 
 ## Frameworks
+
 - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js. (31125 stars)
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀 (29391 stars)
 - [ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (14267 stars)
@@ -155,7 +162,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [Vulcan](https://github.com/VulcanJS/Vulcan) - 🌋 A toolkit to quickly build apps with React, GraphQL & Meteor (7908 stars)
 - [iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm (6606 stars)
 - [tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend. (6131 stars)
-- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️ (5116 stars)
+- [nodegui](https://github.com/nodegui/nodegui) - A library for building cross-platform native desktop applications with Node.js and CSS 🚀. For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️ (5116 stars)
 - [blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js (3689 stars)
 - [JUCE](https://github.com/juce-framework/JUCE) - JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins. (2259 stars)
 - [crank](https://github.com/bikeshaving/crank) - Write JSX-driven components with functions, promises and generators. (2082 stars)
@@ -173,6 +180,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [ustack](https://github.com/fpereiro/ustack) - A web application stack focused on understanding (50 stars)
 
 ## Government
+
 - [democracyos](https://github.com/DemocracyOS/democracyos) - Democracia en Red is focusing on specific implementations of DemocracyOS. We are working now working with governments and activists all over Latin America. If you are interested in our online participation tools you can check them out on our site. (1750 stars)
 - [openFEC](https://github.com/fecgov/openFEC) - The first RESTful API for the Federal Election Commission. We're aiming to make campaign finance more accessible for journalists, academics, developers, and other transparency seekers. (378 stars)
 - [voting-machines](https://github.com/Gorcenski/voting-machines) - A repo for exploring the software quality of electronic voting machines (242 stars)
@@ -189,9 +197,10 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [awesome-government-sites](https://github.com/anselmbradford/awesome-government-sites) - An awesome list of government websites (2 stars)
 
 ## Libraries
+
 - [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple (30696 stars)
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API (30492 stars)
-- [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt (25477 stars)
+- [underscore](https://github.com/jashkenas/underscore) - JavaScript's utility \_ belt (25477 stars)
 - [typeorm](https://github.com/typeorm/typeorm) - ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms. (20366 stars)
 - [localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API. (17601 stars)
 - [playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API (15675 stars)
@@ -207,13 +216,13 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands (9051 stars)
 - [MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine (6920 stars)
 - [randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive colors (5450 stars)
-- [i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere (5166 stars)
+- [i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere (5166 stars)
 - [tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building content management systems directly into websites made with React (Gatsby and Next.js) (5111 stars)
 - [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org) (5082 stars)
 - [GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages. (4660 stars)
 - [billboard.js](https://github.com/naver/billboard.js) - :bar_chart: Re-usable, easy interface JavaScript chart library based on D3.js (4260 stars)
 - [pegjs](https://github.com/pegjs/pegjs) - PEG.js: Parser generator for JavaScript (3821 stars)
-- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨 (3730 stars)
+- [patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly 🏃🏽‍♀️💨 (3730 stars)
 - [super-expressive](https://github.com/francisrstokes/super-expressive) - 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language (3476 stars)
 - [gqless](https://github.com/samdenty/gqless) - A GraphQL client without queries ✨ (2710 stars)
 - [node-progress](https://github.com/visionmedia/node-progress) - Flexible ascii progress bar for nodejs (2462 stars)
@@ -239,12 +248,13 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [xpather](https://github.com/KnowledgeExpert/xpather) - xpath locators builder (3 stars)
 
 ## Linux
+
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree (95863 stars)
 - [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell (9398 stars)
 - [liquidprompt](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh (3961 stars)
 - [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB. (2416 stars)
 - [flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework (2360 stars)
-- [shell](https://github.com/pop-os/shell) - Pop!_OS Shell (1595 stars)
+- [shell](https://github.com/pop-os/shell) - Pop!\_OS Shell (1595 stars)
 - [gTile](https://github.com/gTile/gTile) - A window tiling extension for Gnome. This is the new official home of the vibou.gTile extension. (650 stars)
 - [aliases](https://github.com/sebglazebrook/aliases) - Contextual, dynamic aliases for the bash shell (359 stars)
 - [RandomWallpaperGnome3](https://github.com/ifl0w/RandomWallpaperGnome3) - Random Wallpapers for Gnome 3 (86 stars)
@@ -252,11 +262,13 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [protrekkr](https://github.com/falkTX/protrekkr) - null (51 stars)
 
 ## Machine Learning
+
 - [magenta](https://github.com/magenta/magenta) - Magenta: Music and Art Generation with Machine Intelligence (15473 stars)
 - [spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models. (14540 stars)
 - [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) - List of articles related to deep learning applied to music (1881 stars)
 
 ## Music Organization
+
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger (9521 stars)
 - [Lidarr](https://github.com/lidarr/Lidarr) - Looks and smells like Sonarr but made for music. (1603 stars)
 - [listenbrainz-server](https://github.com/metabrainz/listenbrainz-server) - Server for the ListenBrainz project (371 stars)
@@ -272,7 +284,8 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [spotify-homepage](https://github.com/Ameobea/spotify-homepage) - A personal homepage showing users' top songs and artists, providing a shareable link that they can use to show it off to friends. (2 stars)
 
 ## Music Programming
-- [overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music  (5009 stars)
+
+- [overtone](https://github.com/overtone/overtone) - Collaborative Programmable Music (5009 stars)
 - [alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes: (3609 stars)
 - [MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts for Guitar, Bass, Drums, ect. into code that can be read by the browser. Supports multiple simultaneous instruments and perfect timing. (3187 stars)
 - [scribbletune](https://github.com/scribbletune/scribbletune) - Create music with JavaScript (3181 stars)
@@ -297,7 +310,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [Ableton-Live-tools](https://github.com/danielbayley/Ableton-Live-tools) - A collection of useful additions to @Ableton Live, including better @Git integration. (172 stars)
 - [midifile](https://github.com/nfroidure/midifile) - A MIDI file parser/writer using ArrayBuffers (171 stars)
 - [javascriptmusic](https://github.com/petersalomonsen/javascriptmusic) - Live coding music and synthesis in Javascript / AssemblyScript (WebAssembly) (146 stars)
-- [howto_co34pt_liveCode](https://github.com/theseanco/howto_co34pt_liveCode) - A repository of readmes, techniques, notes and other materials about how i live code in SuperCollider. A (sorta) companion repository to co34pt_livecode  (138 stars)
+- [howto_co34pt_liveCode](https://github.com/theseanco/howto_co34pt_liveCode) - A repository of readmes, techniques, notes and other materials about how i live code in SuperCollider. A (sorta) companion repository to co34pt_livecode (138 stars)
 - [cells](https://github.com/ales-tsurko/cells) - Live coding environment. Use SuperCollider, Python, TidalCycles, Node.js etc. in the same project. (123 stars)
 - [node-osc-min](https://github.com/russellmcc/node-osc-min) - Open Sound Control utilities for node.js (102 stars)
 - [SCLOrkSynths](https://github.com/SCLOrkHub/SCLOrkSynths) - Collection of SuperCollider SynthDefs (synth definitions) for use with Patterns (95 stars)
@@ -310,7 +323,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [Synthdefs](https://github.com/everythingwillbetakenaway/Synthdefs) - Synthdef Pool (51 stars)
 - [Supercollider3_tutorials_code](https://github.com/zeffii/Supercollider3_tutorials_code) - SuperCollider3 tutorial code (47 stars)
 - [Designing-Sound-Max-Patches](https://github.com/unriginal/Designing-Sound-Max-Patches) - All of the practical examples from the book Designing Sound by Andy Farnell, ported to Max 7. (46 stars)
-- [sox-tricks](https://github.com/madskjeldgaard/sox-tricks) - Command line tools that make batch processing, editing and organization of audio files a fast and painless task. Based on the SoX audio tool.  (42 stars)
+- [sox-tricks](https://github.com/madskjeldgaard/sox-tricks) - Command line tools that make batch processing, editing and organization of audio files a fast and painless task. Based on the SoX audio tool. (42 stars)
 - [midi-converter](https://github.com/mobyvb/midi-converter) - A node library for converting back and forth between midi and json. (42 stars)
 - [learn](https://github.com/supercollider/learn) - Official SuperCollider tutorial (41 stars)
 - [ableton-experiment](https://github.com/mark-henry/ableton-experiment) - The great Ableton experiment (37 stars)
@@ -345,6 +358,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [environment_sounds_compilation_PD](https://github.com/thturin/environment_sounds_compilation_PD) - sound effects adapted from Andy Farnell's Designing Sound book (1 stars)
 
 ## Nintendo
+
 - [Nintendont](https://github.com/FIX94/Nintendont) - A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U (953 stars)
 - [SDSetup](https://github.com/noahc3/SDSetup) - The Ninite for your Nintendo Switch. (202 stars)
 - [ACNLPatternTool](https://github.com/Thulinma/ACNLPatternTool) - Animal Crossing: New Leaf Pattern Tool (153 stars)
@@ -355,10 +369,11 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [Guide-WiiU](https://github.com/hacks-guide/Guide-WiiU) - null (13 stars)
 
 ## Open Source Audio Software
+
 - [Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina. (6620 stars)
 - [sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live. (6052 stars)
 - [lmms](https://github.com/LMMS/lmms) - Cross-platform music production software (4400 stars)
-- [audacity](https://github.com/audacity/audacity) - Audio Editor                                      (3133 stars)
+- [audacity](https://github.com/audacity/audacity) - Audio Editor (3133 stars)
 - [Rack](https://github.com/VCVRack/Rack) - Virtual Eurorack DAW (2814 stars)
 - [helio-workstation](https://github.com/helio-fm/helio-workstation) - One music sequencer for all major platforms, desktop and mobile (1780 stars)
 - [helm](https://github.com/mtytel/helm) - Helm - a free polyphonic synth with lots of modulation (1570 stars)
@@ -367,8 +382,8 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [giada](https://github.com/monocasual/giada) - Your Hardcore Loop Machine. (731 stars)
 - [djent](https://github.com/RossMcMillan92/djent) - A metal breakdown generator (708 stars)
 - [WebPd](https://github.com/sebpiq/WebPd) - Run your Pure Data patches on the web. (657 stars)
-- [pure-data](https://github.com/pure-data/pure-data) - Pure Data -  a free real-time computer music system (636 stars)
-- [hydrogen](https://github.com/hydrogen-music/hydrogen) - The git repository of the advanced drum machine  (572 stars)
+- [pure-data](https://github.com/pure-data/pure-data) - Pure Data - a free real-time computer music system (636 stars)
+- [hydrogen](https://github.com/hydrogen-music/hydrogen) - The git repository of the advanced drum machine (572 stars)
 - [paulstretch_cpp](https://github.com/paulnasca/paulstretch_cpp) - PaulStretch (565 stars)
 - [radium](https://github.com/kmatheussen/radium) - A graphical music editor. A next generation tracker. (533 stars)
 - [zynaddsubfx](https://github.com/zynaddsubfx/zynaddsubfx) - ZynAddSubFX open source synthesizer (469 stars)
@@ -403,6 +418,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [FreesoundTimbralSearch](https://github.com/AndyP103/FreesoundTimbralSearch) - null (2 stars)
 
 ## Resources
+
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (156058 stars)
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics (138624 stars)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer. (129955 stars)
@@ -414,7 +430,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings (79747 stars)
 - [computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (64579 stars)
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs (59150 stars)
-- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2020) (49598 stars)
+- [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark: The Node.js best practices list (August 2020) (49598 stars)
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss. (42627 stars)
 - [awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science! (34760 stars)
 - [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 concepts every JavaScript developer should know. (32962 stars)
@@ -459,9 +475,11 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [Rust-Projects](https://github.com/PacktPublishing/Rust-Projects) - Rust Projects [video], published by Packt (7 stars)
 
 ## Rust
+
 - [blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust (5818 stars)
 
 ## Utilities
+
 - [json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously) (49278 stars)
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub. (20459 stars)
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS. (13477 stars)
@@ -480,13 +498,13 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers (1815 stars)
 - [violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support. (1641 stars)
 - [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API (1218 stars)
-- [hr](https://github.com/LuRsT/hr) -  A horizontal :straight_ruler: for your terminal (1156 stars)
+- [hr](https://github.com/LuRsT/hr) - A horizontal :straight_ruler: for your terminal (1156 stars)
 - [boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories (1145 stars)
 - [argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation (440 stars)
 - [npm-trends](https://github.com/johnmpotter/npm-trends) - NPM package comparison (411 stars)
 - [discord-bot-dashboard](https://github.com/julianYaman/discord-bot-dashboard) - 📊 A tool for Discord.js Bot Developers to get detailed analytics of their bots and to manage them. (120 stars)
 - [graphbrainz](https://github.com/exogen/graphbrainz) - A fully-featured GraphQL interface for the MusicBrainz API. (115 stars)
-- [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX  (98 stars)
+- [awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing) - :keyboard: A curated list of awesome tools, demos and resources to go beyond LaTeX (98 stars)
 - [export-archive-reddit-saved](https://github.com/freeezer98/export-archive-reddit-saved) - Script to download Reddit saved posts. Website here: (96 stars)
 - [quiz-generator](https://github.com/voxmedia/quiz-generator) - null (87 stars)
 - [unrequired](https://github.com/spencermountain/unrequired) - find unused javascript files in your project (78 stars)
@@ -496,6 +514,7 @@ Auto-generated from [here](https://github.com/FOSSforlife?tab=stars) using [Astr
 - [stopwatch-cli](https://github.com/codealchemist/stopwatch-cli) - A simple stopwatch app that runs from the shell. (6 stars)
 
 ## Wasm
+
 - [yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps (12881 stars)
 - [wasmtime](https://github.com/bytecodealliance/wasmtime) - Standalone JIT-style runtime for WebAssembly, using Cranelift (3577 stars)
 - [wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool! (2840 stars)
