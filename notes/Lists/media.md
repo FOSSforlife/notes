@@ -45,6 +45,7 @@ I don't watch very many movies, but a few have really touched me:
 - Need for Speed: Carbon
 - F-Zero GX
 - Galaga
+- Blazing Lazers
 
 ## News
 
