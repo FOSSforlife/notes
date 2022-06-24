@@ -1,4 +1,4 @@
-# Podcasting tips
+# Podcasting
 
 ## Recording
 - For recording Discord calls, I use the [Craig](https://craig.chat) bot which records each person on a separate track. 
