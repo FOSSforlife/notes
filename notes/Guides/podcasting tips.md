@@ -14,6 +14,7 @@ If you're tech-savvy and can use GitHub, you can create a podcast feed without h
 - You'll want to generate this programmatically. Since I code in Node.js, I use an NPM package called [podcast](https://www.npmjs.com/package/podcast).
 - My method is to manually create a [YAML file](https://github.com/solutions-podcast/podcast/blob/main/episodes/ep003.yml) for each episode, and then use a [Node.js script](https://github.com/solutions-podcast/podcast/blob/main/scripts/feed-gen.js) to generate the RSS feed file.
 - Once it's generated, I have a [GitHub Action](https://github.com/solutions-podcast/podcast/blob/main/.github/workflows/update-rss.yml) that uploads it to DigitalOcean Spaces using the S3 protocol.
+- I've recently learned that you can use [GraphCMS](https://graphcms.com) for podcast hosting/generation using their [template](https://graphcms.com/marketplace/templates/graphcms-podcast), which is another option that might be more robust, but just like my solution it is very much aimed at developers. The perk is that you can manage your content in a friendly user interface, and it builds an API that you can then use to create a website and gain subscribers.
 
 ## Hosting the files
 If you're tech-savvy and can use GitHub, you can host basically unlimited episodes for a very cheap price.

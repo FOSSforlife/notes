@@ -80,6 +80,11 @@ const config = {
 					},
 					// { to: '/blog', label: 'Blog', position: 'left' },
 					{
+						href: 'https://paypal.me/eliasjackson123',
+						label: 'Tip',
+						position: 'right',
+					},
+					{
 						href: 'https://github.com/fossforlife/notes',
 						label: 'GitHub',
 						position: 'right',

@@ -74,7 +74,7 @@ Ableton also has a free book of musicmaking techniques that will work in any DAW
 ## Do virtual guitars, amps, drums, etc sound as good as the real thing?
 You'll get different answers from different people on this.
 
-My personal opinion is that guitar amp plugins sound really good, and I personally *prefer* them to real amps because they're cheap, versatile, and I can use them in my apartment without noise complaints. I've also had guitarist friends use [Bias FX](https://www.positivegrid.com/bias-fx/) at my place during jam sessions and they were always happy with the metal presets. Other plugins like [Helix Native](https://line6.com/helix/helixnative.html) and [Archetype: Gojira](https://neuraldsp.com/plugins/archetype-gojira) can produce crushing tones that sound just as awesome as anything "real" I've heard.
+My personal opinion is that guitar amp plugins sound really good, and I personally *prefer* them to real amps because they're cheap, versatile, and I can use them in my apartment without noise complaints. I've had guitarist friends use [Bias FX](https://www.positivegrid.com/bias-fx/) at my place during jam sessions and they were always happy with the metal presets. Other plugins like [Helix Native](https://line6.com/helix/helixnative.html) and [Archetype: Gojira](https://neuraldsp.com/plugins/archetype-gojira) can produce crushing tones that sound just as awesome as anything "real" I've heard.
 
 Virtual instruments are a bit harder to get right. Two of my favorite albums, [Meshuggah's Catch ThirtyThree](https://en.wikipedia.org/wiki/Catch_Thirtythree) (2005) and [Animals as Leaders' titular album](https://en.wikipedia.org/wiki/Animals_as_Leaders_(album)) (2009), were made with programmed drums and I think they sound great. Some guy on the internet made an entire [10-hour stream of AI-composed metal](https://www.youtube.com/watch?v=CqvmUnG25dA) using just virtual instruments and I think that sounds really good too. A lot of really impressive guitar and bass plugins from companies like [Shreddage](https://impactsoundworks.com/series/shreddage-3-series/) and [Submission Audio](https://www.submissionaudio.com/products/eurobass2) have come out lately, and when used right they can sound very convincing. That said, this is definitely a skill that takes work. Unless you're working with loops that have already been programmed for you, chances are it'll take time to learn how to program good-sounding guitars and drums. Personally, I struggle with getting virtual guitars and basses to sound good, but I've gotten pretty good at drum programming (it helps that I actually play drums). It's up to you whether you want to take the time to develop this skill or just learn the instrument, and there's no shame in either option. 
 
@@ -92,7 +92,7 @@ There are thousands of tutorials on YouTube that show you how to make a mix from
 
 The REAPER Blog also has a [full paid course](https://reaperblog.net/courses/) on his website on mixing in REAPER, and ADSR Courses has a [similar course](https://www.adsrsounds.com/product/courses/a-beginners-guide-to-mixing-with-ableton-live-10/) on mixing in Ableton. That said, most mixing tips you see can be applied to any DAW.
 
-## Where can I find loops and samples?
+n## Where can I find loops and samples?
 ### Free
 - [MusicRadar - over 70,000 samples organized by category](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download)
 - [Freesound.org - huge repository of user-uploaded samples](https://freesound.org)

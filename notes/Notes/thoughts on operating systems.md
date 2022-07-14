@@ -23,7 +23,7 @@
 ### MacOS
 - No cut and paste in Finder, instead have to use Cmd+C and Cmd+Option+V, really annoying
 - Often need to bypass security restrictions when installing audio plugins from the internet
-- Doesn't run 32-bit games (Portal 2)
+- Doesn't run 32-bit games (Portal 2, CS:GO)
 - Having to switch between Cmd and Ctrl whenever I'm on a different computer or in a Linux VM
 - Recording computer audio for live streams is difficult and requires third-party apps which change all the time due to Apple changing security requirements with each update
 
