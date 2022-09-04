@@ -19,6 +19,8 @@ jobs:
       - name: Sync
         run: |
           pwd
+          ls
+          ls ..
           rsync -r ../notes-repo/public/* ./notes
           ls notes
           git config user.name github-actions
