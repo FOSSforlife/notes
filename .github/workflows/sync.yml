@@ -1,6 +1,8 @@
 name: Sync notes repos
 
-on: [workflow_dispatch]
+on:
+  repository_dispatch:
+    types: [update]
 
 jobs:
   sync:
@@ -26,5 +28,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add notes
-          git commit -m "`date`"
+          git commit -m "Sync update: `date`"
           git push
