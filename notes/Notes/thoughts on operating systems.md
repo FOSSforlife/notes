@@ -46,6 +46,7 @@
 - Many desktop environments to choose from that are all customizable
 - Good learning tool for how computers work
 - Open source, enabling better security and freedom
+- Separation of GUI app environments through distrobox
 
 ### Windows
 - Biggest selection of games

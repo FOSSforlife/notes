@@ -1,0 +1,4 @@
+- Piracy ethics
+	- If you enjoy someone's art and want them to make more of it
+- Open source
+- 

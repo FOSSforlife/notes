@@ -1,4 +1,11 @@
 # Investing
+
+## Short-Term
+
+## Long-Term
+
+----
+
 I use two apps for investing my money, **Stash** and **Acorns**. I highly recommend everyone set aside some of their money for this, as you will almost definitely make more than if your cash sits in a savings account. Markets do crash sometimes, as we've seen recently, but as long as you're choosing safe investments, you're still going to do well, especially in the long run. I've been using both of these apps since 2019.
 
 ## Acorns
@@ -26,3 +33,6 @@ As with Acorns, if you sign up with [my referral link](https://get.stash.com/eli
 I also have a little bit of crypto in Coinbase. There's a [referral link](https://get.stash.com/eliasux2l6) for that too if you're interested. I wouldn't recommend it though. I don't think crypto is going back up anytime soon.
 
 Eventually I'll talk to my credit union about other investment opportunities. I should probably do that soon. Haven't gotten around to it. That said, these apps all work pretty well and have given me great returns over the past few years.
+
+
+[Robinhood referral link](https://join.robinhood.com/eliasj-0bca6b6)
