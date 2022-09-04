@@ -1,3 +1,5 @@
+name: Sync notes repos
+
 on: [workflow_dispatch]
 
 jobs:
