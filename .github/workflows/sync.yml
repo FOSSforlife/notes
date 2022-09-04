@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Create SSH private key
-        run: echo "{{ secrets.GH_ACTIONS_PRIVATE_KEY }}" > .ssh/id_ed25519
+        run: mkdir ~/.ssh > echo "{{ secrets.GH_ACTIONS_PRIVATE_KEY }}" > ~/.ssh/id_ed25519
       - name: Clone external repo
         run: git clone {{ secrets.NOTES_REPO }} /notes-repo
       - name: Clone this repo
