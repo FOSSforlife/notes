@@ -9,8 +9,9 @@ jobs:
         run: echo "{{ secrets.GH_ACTIONS_PRIVATE_KEY }}" > .ssh/id_ed25519
       - name: Clone external repo
         run: git clone {{ secrets.NOTES_REPO }} /notes-repo
-      - name: Sync and push
+      - name: Clone this repo
         uses: actions/checkout@v3
+      - name: Sync
         run: |
           rsync -r /notes-repo/public/* ./notes
           ls notes
