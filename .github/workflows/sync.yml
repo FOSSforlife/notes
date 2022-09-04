@@ -11,7 +11,7 @@ jobs:
           chmod 600 $HOME/.ssh/id_ed25519
           echo "${{ secrets.SSH_KNOWN_HOSTS }}" > $HOME/.ssh/known_hosts
       - name: Clone external repo
-        run: git clone ${{ secrets.NOTES_REPO }} notes-repo
+        run: git clone ${{ secrets.NOTES_REPO }} notes-repo && pwd
       - name: Clone this repo
         uses: actions/checkout@v3
       - name: Print working directory
