@@ -2,6 +2,7 @@ on: [workflow_dispatch]
 
 jobs:
   sync:
+    runs-on: ubuntu-latest
     steps:
       - name: Create SSH private key
         run: echo "{{ secrets.GH_ACTIONS_PRIVATE_KEY }}" > .ssh/id_ed25519
