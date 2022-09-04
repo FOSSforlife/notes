@@ -1,6 +1,4 @@
-on:
-  repository_dispatch:
-    types: [notes-update]
+on: [workflow_dispatch]
 
 jobs:
   sync:
