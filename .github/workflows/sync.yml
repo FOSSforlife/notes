@@ -1,0 +1,21 @@
+on:
+  repository_dispatch:
+    types: [notes-update]
+
+jobs:
+  sync:
+    steps:
+      - name: Create SSH private key
+        run: echo "{{ secrets.GH_ACTIONS_PRIVATE_KEY }}" > .ssh/id_ed25519
+      - name: Clone external repo
+        run: git clone {{ secrets.NOTES_REPO }} /notes-repo
+      - name: Sync and push
+        uses: actions/checkout@v3
+        run: |
+          rsync -r /notes-repo/public/* ./notes
+          ls notes
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add notes
+          git commit -m "generated"
+          # git push
