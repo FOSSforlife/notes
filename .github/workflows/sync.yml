@@ -11,16 +11,14 @@ jobs:
           chmod 600 $HOME/.ssh/id_ed25519
           echo "${{ secrets.SSH_KNOWN_HOSTS }}" > $HOME/.ssh/known_hosts
       - name: Clone external repo
-        run: git clone ${{ secrets.NOTES_REPO }} notes-repo && pwd
+        run: git clone ${{ secrets.NOTES_REPO }} notes-repo
       - name: Clone this repo
         uses: actions/checkout@v3
-      - name: Print working directory
-        run: pwd
+        with:
+          path: this-repo
       - name: Sync
         run: |
-          pwd
-          ls
-          ls ..
+          cd this-repo
           rsync -r ../notes-repo/public/* ./notes
           ls notes
           git config user.name github-actions
