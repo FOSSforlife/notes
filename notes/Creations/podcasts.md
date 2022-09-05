@@ -26,4 +26,4 @@ The podcast is on hiatus, but we now host a weekly [article discussion](https://
 ## Listening Circle (2019-2021)
 Listening Circle was a podcast where my friends and I would discuss all things music, usually reviewing recent albums from bands that we like.
 
-You can find all the episodes, as well as a "greatest hits" compilation, on [YouTube](https://www.youtube.com/channel/UCtM9VzujJ4bK-82xIi0vKFQ)
+You can find all the episodes, as well as a "greatest hits" compilation, on [YouTube](https://www.youtube.com/channel/UCtM9VzujJ4bK-82xIi0vKFQ).
