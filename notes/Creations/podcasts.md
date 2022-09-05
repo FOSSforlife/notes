@@ -9,7 +9,7 @@ The podcast is on hiatus, but we now host a weekly [article discussion](https://
 
 1. Ending Homelessness
 	- [Medium](https://medium.com/solutions/ending-homelessness-solutions-ep-1-b8d7932fa9b2)
-	- [Spotify]([Spotify](https://open.spotify.com/episode/60e8p45y2348bps1TfP1ox?si=GCzer070Tamo9MgRFT_NSA))
+	- [Spotify](https://open.spotify.com/episode/60e8p45y2348bps1TfP1ox?si=GCzer070Tamo9MgRFT_NSA)
 	- [Apple Podcasts](https://podcasts.apple.com/us/podcast/ending-homelessness/id1544195138?i=1000502035887)
 	- [YouTube](https://youtu.be/XvGVKvsL1Zw)
 2. Spread of Misinformation
