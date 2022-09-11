@@ -19,8 +19,7 @@ Below are examples of some of my views. Some of these, you may agree with, and o
 
 - No sentient being should ever be made to suffer unless there is no way around it. Unnecessary pain and suffering includes: animals in factory farms, circumcision, "enhanced interrogation", poverty, harsh forms of punishment, etc. This also includes [wild animals who constantly suffer](https://www.animal-ethics.org/wild-animal-suffering-section/wild-animal-suffering-matters/) from malnutrition, disease, harsh weather conditions, and more.
 - Retributive "justice" is _never_ a reason to harm someone. (Punishment which prevents future harm, however, can be.)
-- It's very possible that artificial intelligence can make better policy decisions than humans, and while I understand the risks, I'm less concerned about it doing harm to the populace than most people are.
-- Markets, government, hierarchy (including workplace hierarchy), and wealth disparity are not inherently unethical, although any of these taken to an extreme will usually result in unnecessary suffering, and I'm not against a future world where some or all of these things have been eliminated or transformed entirely.
+- Markets, government, hierarchy (including workplace hierarchy), and wealth inequality are not inherently unethical, although any of these taken to an extreme will usually result in unnecessary suffering, and I'm not against a future world where some or all of these things have been eliminated or transformed entirely.
 - A techno-utopian future where humans are [super-intelligent, free of despair, and have the option to live forever](https://www.youtube.com/watch?v=bTMS9y8OVuY), is a desirable goal.
 
 ## A quote on suffering
@@ -44,7 +43,7 @@ In the following sections, I will use two premises to reach the conculsion that 
 
 Before arguing that all suffering is wrong, I find it easiest to start with the claim that _my own_ suffering is wrong. This is different from saying that I don't like to suffer-- that would be an "is" statement (describing facts of the matter)--here I am making an "ought" statement, that my well-being _should_ be protected.
 
-Right off the bat, I'll say that this is an [axiom](https://en.wikipedia.org/wiki/Axiom)--a premise that I have an intuition about, but have not proven to be true. I can't make a rational argument that my own well-being is important, however this is one of my most deeply-held beliefs, and not believing this would lead to an absurd existance where any action done towards me, no matter how harmful, could be morally neutral or justified. I cannot imagine an existence where this axiom is not true.
+Right off the bat, I'll say that this is an [axiom](https://en.wikipedia.org/wiki/Axiom)--a premise that I have an intuition about, but have not proven to be true. I can't make a rational argument that my own well-being is important in a way that properly bridges the [is-ought gap](https://en.wikipedia.org/wiki/Is%E2%80%93ought_problem), however this is one of my most deeply-held beliefs, and not believing this would lead to an absurd existance where any action done towards me, no matter how harmful, could be morally neutral or justified. I cannot imagine an existence where this axiom is not true.
 
 In philosophy, arguments sometimes have to start from unjustified premises, and unfortunately this is one of those cases. However, I don't think this is a controversial claim (maybe some people don't think that _my_ well-being matters, but they can just substitute themselves into the claim instead and hopefully they'd agree). I find the next premise more interesting, and I hope the logic from this point forward makes a clear case for my thesis.
 
@@ -70,7 +69,7 @@ We've established that my well-being matters, yet as I've said, I don't have a r
 - _My well-being matters because I'm me._
 
   - Ethical egoism argues that what is morally right is defined by each person fulfilling their own desires. Essentially, if you want something, then it's ethical for you to have it.
-  - Of course, if our goal is for a moral system to be _objective_, then this can't possibly work. People are going to have competing interests, so if our moral system says that everyone must pursue their interests, it's going to have contradictions. Thus, ethical egoism is insufficient grounds for arguing that my well-being matters.
+  - Of course, if our goal is for a moral system to be _objective_, it must be consistent. So this can't possibly work. People are going to have competing interests, and if our moral system says that everyone must pursue their interests, it's going to have contradictions when different people want different things. Thus, ethical egoism is insufficient grounds for arguing that my well-being matters.
 
 - _My well-being matters because I'm a good person._
   - There is also no good argument for saying that [people who act well deserve better than people who act badly](https://plato.stanford.edu/entries/desert/#Justice), particularly if we accept determinism-- the belief that we don't really make any of our own choices.
@@ -80,9 +79,13 @@ We've eliminated all potential reasons that separate me from others to justify m
 
 ## Conclusion: Everyone's well-being matters.
 
-Because there is no rational way to justify my own well-being above others, yet I know that my own well-being is ethically significant, I must conclude that everyone's well-being matters. If I ever do find a rational justification for Premise 1, I would expect that argument to also logically follow for everyone who isn't me.
+Because there is no rational way to justify my own well-being above others, yet I know that my own well-being is ethically significant, I must conclude that everyone's well-being matters. If I ever do find a rational justification for Premise 1, I would expect that argument to also logically follow for everyone who isn't me. Furthermore, if someone wanted to argue for **moral nihilism** (the idea that well-being doesn't matter), they would have to denounce Premise 1 and state that *their own* well-being doesn't matter. The adherence to this claim could be tested by placing the person's hand on a hot stove. ;) 
 
-**TODO: Write more on each of these bullet points**
+This answers the basic question of why we should care about others, and why we should create a world where everyone (specifically, every living thing that is capable of having **well-being**) can prosper. But what are the rammifications of this? What should we actually do with this information?
+
+This is where we turn to moral philosophy. There are many different philosophies around [how to be moral](https://en.wikipedia.org/wiki/Ethics), [the meaning of well-being](https://plato.stanford.edu/entries/well-being/), whether or not we have [free will](https://en.wikipedia.org/wiki/Determinism) and [how that impacts moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/), and much more. I'm not interested in delving into these at the moment, as none of them have clear-cut answers. That said, I have opinions on all of them that I may share in future essays.
+
+<!--**TODO: Write more on each of these bullet points**
 
 Questions to determine which moral theories we hold true (Most of these use [consequentialism](https://plato.stanford.edu/entries/consequentialism/) as a basis):
 
@@ -106,7 +109,7 @@ Questions to determine which moral theories we hold true (Most of these use [con
   - Tbh I'm not well-versed on his overall theory, but I like his "veil of ignorance" concept and I think this applies to many of the other theories mentioned
 - After a while, I stopped caring about the exact math or what equations I should be using. What's important, especially given my limited time and energy, is that my actions contribute to the reduction of suffering in some way
 - I have never in my life seen a moral system that doesn't result in some hypothetical dilemmas (classical utilitarianism is full of them, by the way), and even if I did find a moral system that was devoid of any uncomfortable conclusions, it would most likely disagree with the fundamental axioms that I laid out at the beginning of my argument.
-- I'll say the same thing for philosophy as I will for any other academic subject: **If the answer was simple, most of the experts would agree.**
+- I'll say the same thing for philosophy as I will for any other academic subject: **If the answer was simple, most of the experts would agree.**-->
 
 ## How to live as a consequentialist
 
