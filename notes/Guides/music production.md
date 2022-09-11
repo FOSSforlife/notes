@@ -37,7 +37,7 @@ Don't get me wrong-- I **love** my M1 Max MacBook Pro. MacOS is a rock-solid ope
 But as long as your laptop isn't slow to the point of being sluggish, it should be able to handle most audio processing just fine. Computers have come a long way, and audio processing doesn't require a huge amount of power. If you really want to upgrade to something nicer than what you have, I do think a Mac is a great option, but you'd also be fine with any new-ish Windows PC. Just go with what you like most.
 
 ## How do I get started in REAPER?
-[Download it here](http://reaper.fm/download.php) if you haven't already.
+[Download the 60-day trial here](http://reaper.fm/download.php) if you haven't already.
 
 The videos on [REAPER's website](http://reaper.fm/videos.php) are an excellent resource to start with. If you prefer reading, you can also check out the [REAPER User Guide](http://reaper.fm/userguide.php).
 
@@ -92,7 +92,7 @@ There are thousands of tutorials on YouTube that show you how to make a mix from
 
 The REAPER Blog also has a [full paid course](https://reaperblog.net/courses/) on his website on mixing in REAPER, and ADSR Courses has a [similar course](https://www.adsrsounds.com/product/courses/a-beginners-guide-to-mixing-with-ableton-live-10/) on mixing in Ableton. That said, most mixing tips you see can be applied to any DAW.
 
-n## Where can I find loops and samples?
+## Where can I find loops and samples?
 ### Free
 - [MusicRadar - over 70,000 samples organized by category](https://www.musicradar.com/news/tech/free-music-samples-royalty-free-loops-hits-and-multis-to-download)
 - [Freesound.org - huge repository of user-uploaded samples](https://freesound.org)

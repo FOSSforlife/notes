@@ -1,10 +1,9 @@
 # Investing
+:::danger Outdated
 
-## Short-Term
+I've recently replaced Stash with Robinhood because it has more features and works better with my current credit union. I'm going to update this guide at some point, but if you're interested in [Robinhood](https://join.robinhood.com/eliasj-0bca6b6) here's my referral link. I still use Acorns, so that section below is still accurate.
 
-## Long-Term
-
-----
+:::
 
 I use two apps for investing my money, **Stash** and **Acorns**. I highly recommend everyone set aside some of their money for this, as you will almost definitely make more than if your cash sits in a savings account. Markets do crash sometimes, as we've seen recently, but as long as you're choosing safe investments, you're still going to do well, especially in the long run. I've been using both of these apps since 2019.
 
