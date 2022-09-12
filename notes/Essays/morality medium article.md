@@ -64,7 +64,7 @@ We've established that my well-being matters, yet as I've said, I don't have a r
 
 - _My well-being matters because I'm human._
 
-  - This claim might feel natural, because we generally tend to recognize humans as members of society, as moral agents, and as people who deserve well-being. But I haven't seen a good argument as to why being human necessarily means I deserve well-being any more than if I were a different species.
+  - This claim might feel natural, because we generally tend to recognize humans as members of society, as moral agents, and as people who deserve well-being. But I haven't seen a good argument as to why being human necessarily means I deserve well-being any more than if I were a different species that had its own thoughts and feelings. If I were a dog (or a ) surely I wou
 
 - _My well-being matters because I'm me._
 
@@ -83,7 +83,9 @@ Because there is no rational way to justify my own well-being above others, yet 
 
 This answers the basic question of why we should care about others, and why we should create a world where everyone (specifically, every living thing that is capable of having **well-being**) can prosper. But what are the rammifications of this? What should we actually do with this information?
 
-This is where we turn to moral philosophy. There are many different philosophies around [how to be moral](https://en.wikipedia.org/wiki/Ethics), [the meaning of well-being](https://plato.stanford.edu/entries/well-being/), whether or not we have [free will](https://en.wikipedia.org/wiki/Determinism) and [how that impacts moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/), and much more. I'm not interested in delving into these at the moment, as none of them have clear-cut answers. That said, I have opinions on all of them that I may share in future essays.
+This is where we turn to moral philosophy. There are many different philosophies around [how to be moral](https://en.wikipedia.org/wiki/Ethics), [what well-being even means](https://plato.stanford.edu/entries/well-being/), [how we value pain vs. pleasure](https://en.wikipedia.org/wiki/Suffering-focused_ethics), whether or not we have [free will](https://en.wikipedia.org/wiki/Determinism) and [how that impacts moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/), and much more. It's a huge field with lots of debate and discussion on all of the different issues. Some even argue that issues of morality [can never truly be solved](https://en.wikipedia.org/wiki/Anti-realism#Moral_anti-realism). 
+
+However, even without delving into philosophy and wrestling with all of these difficult questions, there are some basic prescriptions we can make once we accept that everyone's well-being matters.
 
 <!--**TODO: Write more on each of these bullet points**
 
@@ -111,7 +113,19 @@ Questions to determine which moral theories we hold true (Most of these use [con
 - I have never in my life seen a moral system that doesn't result in some hypothetical dilemmas (classical utilitarianism is full of them, by the way), and even if I did find a moral system that was devoid of any uncomfortable conclusions, it would most likely disagree with the fundamental axioms that I laid out at the beginning of my argument.
 - I'll say the same thing for philosophy as I will for any other academic subject: **If the answer was simple, most of the experts would agree.**-->
 
-## How to live as a consequentialist
+## How should I contribute to everyone's well-being?
+It is my belief that everyone should contribute to making the world a better place for all living organisms as long as they can do so without causing themselves great harm. That said, it can be stressful to think about all the suffering in the world and in our own communities and how to even begin to address it. It's easy to feel hopeless that your efforts will actually accomplish anything, because you're only one person, and the world is a harsh place with many problems.
+
+However, the truth is that we each have an impact on the world through our actions every day, from immediate actions such as greeting someone with a smile or giving a few dollars to a person experiencing homelessness, to indirect actions such as participating in the economy, voting in elections, donating to a cause, or creating art.
+
+The question is, how do we do the most with our contributions?
+
+- inconvenience
+- scale
+
+- EA
+- Giving What We Can
+- GiveWell
 
 - Effective Altruism
 - Veganism
