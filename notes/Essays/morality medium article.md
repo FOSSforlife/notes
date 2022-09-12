@@ -64,7 +64,7 @@ We've established that my well-being matters, yet as I've said, I don't have a r
 
 - _My well-being matters because I'm human._
 
-  - This claim might feel natural, because we generally tend to recognize humans as members of society, as moral agents, and as people who deserve well-being. But I haven't seen a good argument as to why being human necessarily means I deserve well-being any more than if I were a different species that had its own thoughts and feelings. If I were a dog (or a ) surely I wou
+  - This claim might feel natural, because we generally tend to recognize humans as members of society, as moral agents, and as people who deserve well-being. But I haven't seen a good argument as to why being human necessarily means I deserve well-being any more than if I were a different species that had its own thoughts and feelings.
 
 - _My well-being matters because I'm me._
 
@@ -83,7 +83,7 @@ Because there is no rational way to justify my own well-being above others, yet 
 
 This answers the basic question of why we should care about others, and why we should create a world where everyone (specifically, every living thing that is capable of having **well-being**) can prosper. But what are the rammifications of this? What should we actually do with this information?
 
-This is where we turn to moral philosophy. There are many different philosophies around [how to be moral](https://en.wikipedia.org/wiki/Ethics), [what well-being even means](https://plato.stanford.edu/entries/well-being/), [how we value pain vs. pleasure](https://en.wikipedia.org/wiki/Suffering-focused_ethics), whether or not we have [free will](https://en.wikipedia.org/wiki/Determinism) and [how that impacts moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/), and much more. It's a huge field with lots of debate and discussion on all of the different issues. Some even argue that issues of morality [can never truly be solved](https://en.wikipedia.org/wiki/Anti-realism#Moral_anti-realism). 
+This is where we turn to moral philosophy. There are many different philosophies around [how to be moral](https://en.wikipedia.org/wiki/Ethics), [what well-being even means](https://plato.stanford.edu/entries/well-being/), [how we value pain vs. pleasure](https://en.wikipedia.org/wiki/Suffering-focused_ethics), whether or not we have [free will](https://en.wikipedia.org/wiki/Determinism) and [how that impacts moral responsibility](https://plato.stanford.edu/entries/moral-responsibility/), and much more. It's a huge field with lots of debate and discussion on all of the different issues. 
 
 However, even without delving into philosophy and wrestling with all of these difficult questions, there are some basic prescriptions we can make once we accept that everyone's well-being matters.
 
@@ -113,15 +113,22 @@ Questions to determine which moral theories we hold true (Most of these use [con
 - I have never in my life seen a moral system that doesn't result in some hypothetical dilemmas (classical utilitarianism is full of them, by the way), and even if I did find a moral system that was devoid of any uncomfortable conclusions, it would most likely disagree with the fundamental axioms that I laid out at the beginning of my argument.
 - I'll say the same thing for philosophy as I will for any other academic subject: **If the answer was simple, most of the experts would agree.**-->
 
-## How should I contribute to everyone's well-being?
-It is my belief that everyone should contribute to making the world a better place for all living organisms as long as they can do so without causing themselves great harm. That said, it can be stressful to think about all the suffering in the world and in our own communities and how to even begin to address it. It's easy to feel hopeless that your efforts will actually accomplish anything, because you're only one person, and the world is a harsh place with many problems.
+## Contributing to everyone's well-being
+It follows from my argument that everyone should contribute to making the world a better place for all living organisms as long as they can do so without causing themselves great harm. In case you're still not convinced of this, consider the "drowning child" thought experiment:
 
-However, the truth is that we each have an impact on the world through our actions every day, from immediate actions such as greeting someone with a smile or giving a few dollars to a person experiencing homelessness, to indirect actions such as participating in the economy, voting in elections, donating to a cause, or creating art.
+> To challenge my students to think about the ethics of what we owe to people in need, I ask them to imagine that their route to the university takes them past a shallow pond. One morning, I say to them, you notice a child has fallen in and appears to be drowning. To wade in and pull the child out would be easy but it will mean that you get your clothes wet and muddy, and by the time you go home and change you will have missed your first class.
+> 
+> I then ask the students: do you have any obligation to rescue the child? Unanimously, the students say they do. The importance of saving a child so far outweighs the cost of getting one’s clothes muddy and missing a class, that they refuse to consider it any kind of excuse for not saving the child. Does it make a difference, I ask, that there are other people walking past the pond who would equally be able to rescue the child but are not doing so? No, the students reply, the fact that others are not doing what they ought to do is no reason why I should not do what I ought to do.
+> 
+> Once we are all clear about our obligations to rescue the drowning child in front of us, I ask: would it make any difference if the child were far away, in another country perhaps, but similarly in danger of death, and equally within your means to save, at no great cost – and absolutely no danger – to yourself? Virtually all agree that distance and nationality make no moral difference to the situation. I then point out that we are all in that situation of the person passing the shallow pond: we can all save lives of people, both children and adults, who would otherwise die, and we can do so at a very small cost to us: the cost of a new CD, a shirt or a night out at a restaurant or concert, can mean the difference between life and death to more than one person somewhere in the world – and overseas aid agencies like Oxfam overcome the problem of acting at a distance.
+> 
+> - Peter Singer ([Source](https://newint.org/features/1997/04/05/peter-singer-drowning-child-new-internationalist))
 
-The question is, how do we do the most with our contributions?
+That said, it can be stressful to think about all the suffering in the world and in our own communities and how to even begin to address it. It's easy to feel hopeless that your efforts will actually accomplish anything, because you're only one person, and the world is a harsh place with many ongoing problems.
 
-- inconvenience
-- scale
+However, the truth is that we each have an impact on the world through our actions every day, from immediate actions such as greeting someone with a smile or giving a few dollars to a person experiencing houselessness, to indirect actions such as participating in the economy, voting in elections, donating to a cause, or creating art.
+
+The question is, how do we do the most with our contributions? Peter Singer, who created the thought experiment above, inspired a movement called [Effective Altruism](https://www.effectivealtruism.org), whicy advocates "maximizing the good you can do" through charitable donations and lifestyle choices such as veganism. It's affiliated with a charity evaluation organization called [GiveWell](https://www.givewell.org), which conducts research on organizations that save the most lives per dollar.
 
 - EA
 - Giving What We Can
