@@ -1,16 +1,18 @@
 # Arch Linux
 ## Pros
-- Lightweight and flexible - only install what you need
+- Lightweight and flexible - only install what you need (especially when paired with a lightweight DE/window manager)
 - Pacman/AUR
 
 ## Cons
 - Doesn't come with `yay` preinstalled (although this is only a few commands away)
 - Can be difficult to get sway up and running, even using archinstall
+- Requires constant maintenance
 
 # Debian
 ## Pros
 - Rock-solid stability
 - Lots of packages available in repos
+- Only need to upgrade every 2 or 3 years (like Linux Mint and Ubuntu LTS)
 
 ## Cons
 - Applications are very old (although this could be mitigated using Flatpak and Distrobox)
@@ -37,9 +39,8 @@
 ## Cons
 - Installer often breaks when trying to customize partitions (encryption, etc)
 - Not as much online support as other distros
-- Not suitable for tinkerers who need root filesystem access
 - Have run into some issues with upgrades not working and hardware randomly failing (e.g. speakers)
-- Can't install other desktop environments, only supports GNOME or KDE (Fedora Kinoite)
+- Can't install other desktop environments, only supports GNOME or KDE (Fedora Kinoite, which is apparently riddled with bugs)
 - Installing GUI apps inside distrobox can take extra steps (e.g. adding to application list)
 
 # Linux Mint
@@ -49,8 +50,10 @@
 - Uses Cinnamon which is more lightweight and easier to use than GNOME
 - Timeshift integration
 - Web app manager
+- Good out-of-the-box wine/proton integration
 
 ## Cons
+- No Wayland support 
 
 # Manjaro
 ## Pros
