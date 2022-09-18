@@ -19,7 +19,7 @@ Below are examples of some of my views. Some of these, you may agree with, and o
 
 - No sentient being should ever be made to suffer unless there is no way around it. Unnecessary pain and suffering includes: animals in factory farms, circumcision, "enhanced interrogation", poverty, harsh forms of punishment, etc. This also includes [wild animals who constantly suffer](https://www.animal-ethics.org/wild-animal-suffering-section/wild-animal-suffering-matters/) from malnutrition, disease, harsh weather conditions, and more.
 - Retributive "justice" is _never_ a reason to harm someone. (Punishment which prevents future harm, however, can be.)
-- Markets, government, hierarchy (including workplace hierarchy), and wealth inequality are not inherently unethical, although any of these taken to an extreme will usually result in unnecessary suffering, and I'm not against a future world where some or all of these things have been eliminated or transformed entirely.
+- Markets, government, hierarchy (including workplace hierarchy), and wealth inequality are not inherently unethical, although any of these taken to an extreme will usually result in unnecessary suffering, and I think that in the future we could see all of these things eliminated or transformed entirely.
 - A techno-utopian future where humans are [super-intelligent, free of despair, and have the option to live forever](https://www.youtube.com/watch?v=bTMS9y8OVuY), is a desirable goal.
 
 ## A quote on suffering
@@ -47,7 +47,7 @@ Right off the bat, I'll say that this is an [axiom](https://en.wikipedia.org/wik
 
 In philosophy, arguments sometimes have to start from unjustified premises, and unfortunately this is one of those cases. However, I don't think this is a controversial claim (maybe some people don't think that _my_ well-being matters, but they can just substitute themselves into the claim instead and hopefully they'd agree). I find the next premise more interesting, and I hope the logic from this point forward makes a clear case for my thesis.
 
-**TODO: Flesh out this section**
+<!--**TODO: Flesh out this section**-->
 
 <!--
 - We could try to justify this with Chalmers' panpsychism/dualism: If our minds are not merely physical, we can justify extending greater care towards them than other physical (non-sentient) objects. But this isn't a full argument, and it doesn't bridge the is-ought gap, because it doesn't tell us *why* something being non-physical means we should care about it.
@@ -72,7 +72,7 @@ We've established that my well-being matters, yet as I've said, I don't have a r
   - Of course, if our goal is for a moral system to be _objective_, it must be consistent. So this can't possibly work. People are going to have competing interests, and if our moral system says that everyone must pursue their interests, it's going to have contradictions when different people want different things. Thus, ethical egoism is insufficient grounds for arguing that my well-being matters.
 
 - _My well-being matters because I'm a good person._
-  - There is also no good argument for saying that [people who act well deserve better than people who act badly](https://plato.stanford.edu/entries/desert/#Justice), particularly if we accept determinism-- the belief that we don't really make any of our own choices.
+  - There is no good argument for saying that [people who act well deserve better than people who act badly](https://plato.stanford.edu/entries/desert/#Justice), especially if we accept determinism-- the belief that we don't really make any of our own choices.
   - The argument that creating this type of society is good because it benefits people is circular reasoning-- you first have to define what is good.
 
 We've eliminated all potential reasons that separate me from others to justify my well-being. I still don't know what the reason is that my well-being matters, but this process of elimination has led me to the conclusion that, if I ever do find a justification for my own well-being, it would likely justify everyone's well-being. In other words:
@@ -129,14 +129,6 @@ That said, it can be stressful to think about all the suffering in the world and
 However, the truth is that we each have an impact on the world through our actions every day, from immediate actions such as greeting someone with a smile or giving a few dollars to a person experiencing houselessness, to indirect actions such as participating in the economy, voting in elections, donating to a cause, or creating art.
 
 The question is, how do we do the most with our contributions? Peter Singer, who created the thought experiment above, inspired a movement called [Effective Altruism](https://www.effectivealtruism.org), whicy advocates "maximizing the good you can do" through charitable donations and lifestyle choices such as veganism. It's affiliated with a charity evaluation organization called [GiveWell](https://www.givewell.org), which conducts research on organizations that save the most lives per dollar.
-
-- EA
-- Giving What We Can
-- GiveWell
-
-- Effective Altruism
-- Veganism
-- Don't seek other people's suffering (e.g. revenge)
 
 ## Further reading
 
