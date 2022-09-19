@@ -72,6 +72,14 @@
 - Fedora-based but has RPMFusion enabled out-of-the-box
 - Gaming distro
 
+# OpenSUSE Tumbleweed
+## Pros
+- BTRFS by default
+- Easy system administration through YaST (firewalls, virtualization, etc)
+
+## Cons
+- Package management seems like a pain - not a lot of software available and updated
+
 # Pop OS
 ## Pros
 - Great support for GPU drivers including NVIDIA
