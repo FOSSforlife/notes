@@ -73,3 +73,4 @@ Average = 7.55/10
 ## Season 6
 1. Solaricks - 7/10
 2. Rick: A Mort Well Lived - 7.5/10
+3. Bethnic Twinstinct - 8.5/10
