@@ -6,6 +6,8 @@ This is a work-in-progress.
 
 I've made it publicly available in its current state because you may find it interesting. Eventually I'll finish and formally publish it, but I'm not sure when that will be.
 
+As of Sep 19, 2022, this is almost done. I've decided not to go super in-depth on all the different moral theories as that would be beside the point I'm trying to make. I might do that in future essays, though. 
+
 :::
 
 <!--
