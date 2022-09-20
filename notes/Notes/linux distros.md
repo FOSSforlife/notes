@@ -30,6 +30,14 @@
 ## Cons
 - Might not offer as much customization during install as vanilla Arch (although I haven't run into this problem)
 
+
+# Fedora Workstation
+## Pros
+- Supports Flatpaks out-of-the-box
+
+## Cons
+- Package manager (DNF) is slow
+
 # Fedora Silverblue
 ## Pros
 - Root-only filesystem is stable and secure
@@ -85,6 +93,7 @@
 ## Pros
 - Great support for GPU drivers including NVIDIA
 - Best implementation of GNOME - all-in-one settings, nice UI
+- Flatpaks out-of-the-box
 
 ## Cons
 - No Wayland support
@@ -96,3 +105,10 @@
 ## Cons
 - Uses snaps for everything
 - Bloated
+
+-----
+# Others
+- Garuda (Arch-based)
+- MX Linux (Debian-based)
+- Nitrux
+- Solus
