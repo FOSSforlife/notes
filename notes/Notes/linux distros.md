@@ -98,6 +98,11 @@
 ## Cons
 - No Wayland support
 
+# RisiOS
+- Fedora-based
+- Web apps
+- RPMFusion enabled
+
 # Ubuntu
 ## Pros
 - Really good GNOME implementation with Dash-to-Dock
@@ -110,5 +115,13 @@
 # Others
 - Garuda (Arch-based)
 - MX Linux (Debian-based)
-- Nitrux
+- Nitrux (Debian unstable-based)
+	- custom kde
 - Solus
+
+## how to find distros
+- distrowatch
+- ebuzz central
+- 9to5linux
+- distrotube
+- techhut
