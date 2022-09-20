@@ -75,6 +75,7 @@
 # OpenSUSE Tumbleweed
 ## Pros
 - BTRFS by default
+- Snapper enabled by default
 - Easy system administration through YaST (firewalls, virtualization, etc)
 
 ## Cons
