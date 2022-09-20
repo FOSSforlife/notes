@@ -4,7 +4,7 @@
 
 This is a work-in-progress.
 
-As of Sep 19, 2022, this is almost done. I've decided not to go super in-depth on all the different moral theories as that would be beside the point I'm trying to make. I might do that in future essays, though. 
+As of Sep 19, 2022, this is almost done. I've decided not to go super in-depth on all the different moral theories as that would be beside the point I'm trying to make. (I might do that in future essays, though.) I'll have to change up the intro since the essay diverted a bit from what I initially intended it to be.
 
 :::
 
