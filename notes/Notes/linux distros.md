@@ -34,6 +34,9 @@
 # Fedora Workstation
 ## Pros
 - Supports Flatpaks out-of-the-box
+- Latest GNOME
+- Great security since it's based on RHEL, very few exploits
+- DNF handles package dependencies very well
 
 ## Cons
 - Package manager (DNF) is slow
@@ -50,6 +53,7 @@
 - Have run into some issues with upgrades not working and hardware randomly failing (e.g. speakers)
 - Can't install other desktop environments, only supports GNOME or KDE (Fedora Kinoite, which is apparently riddled with bugs)
 - Installing GUI apps inside distrobox can take extra steps (e.g. adding to application list)
+- Difficult to export dconf config
 
 # Linux Mint
 ## Pros
