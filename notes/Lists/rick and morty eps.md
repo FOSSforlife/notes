@@ -74,3 +74,6 @@ Average = 7.55/10
 1. Solaricks - 7/10
 2. Rick: A Mort Well Lived - 7.5/10
 3. Bethnic Twinstinct - 8.5/10
+4. Night Family - 8.5/10
+5. Final DeSmithation - 8/10
+6. Juricksic Mort - 9/10
