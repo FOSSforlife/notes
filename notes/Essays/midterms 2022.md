@@ -109,6 +109,8 @@ Jo Ann Hardesty, on the other hand, focuses her rhetoric and policies on treatin
 
 ## Multnomah Measure 26-228
 
+## Multnomah Measure 26-231
+
 ## Multnomah Measure 26-232
 
 
