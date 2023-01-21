@@ -66,6 +66,8 @@
 ### Current authoritarian regimes are ineffective at governing
 - [Noah Smith - Authoritarians are not governing effectively (Noahpinion)](https://noahpinion.substack.com/p/authoritarians-are-not-governing)
 
+### Russian disinformation did not meaningfully affect the 2016 US election results
+- [Exposure to the Russian Internet Research Agency foreign influence campaign on Twitter in the 2016 US election and its relationship to attitudes and voting behavior | Nature Communications](https://www.nature.com/articles/s41467-022-35576-9)
 
 ## Free Stuff
 
