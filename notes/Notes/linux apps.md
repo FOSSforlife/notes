@@ -17,6 +17,7 @@ sudo rpm-ostree install distrobox gnome-tweaks zsh
 ## Install via various CLI commands
 
 ### NVM
+Note: vscodium from AUR also installs nvm and nodejs
 https://github.com/nvm-sh/nvm#install--update-script
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | zsh
