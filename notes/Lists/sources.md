@@ -24,6 +24,7 @@
 ## Artificial intelligence
 
 ### AI is a serious threat to humanity
+- [Scott Alexander - Superintelligence FAQ (LessWrong)](https://www.lesswrong.com/posts/LTtNXM9shNM9AC2mp/superintelligence-faq)
 - [Kelsey Piper - A guide to why advanced AI could destroy the world (Vox)](https://www.vox.com/the-highlight/23447596/artificial-intelligence-agi-openai-gpt3-existential-risk-human-extinction)
 	- See also from Kelsey Piper: [The case for taking AI seriously as a threat to humanity (2020)](https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment), [The case that AI threatens humanity, explained in 500 words (2019)](https://www.vox.com/future-perfect/2019/2/12/18202466/ai-artificial-intelligence-humanity-threat)
 
